@@ -433,6 +433,7 @@ margin-top: 10%;
         margin-top: 114px;
         flex-wrap: nowrap; /* S'assurer que les éléments restent en ligne */
         overflow-x: auto; /* Permet le défilement horizontal si nécessaire */
+        font-size: 10px;
     }
 
     .animated-container {
