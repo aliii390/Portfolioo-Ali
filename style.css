@@ -430,7 +430,7 @@ margin-top: 10%;
 @media (max-width: 768px) {
     ul {
         flex-direction: row;
-        margin-top: 20px;
+        margin-top: 114px;
         flex-wrap: nowrap; /* S'assurer que les éléments restent en ligne */
         overflow-x: auto; /* Permet le défilement horizontal si nécessaire */
     }
